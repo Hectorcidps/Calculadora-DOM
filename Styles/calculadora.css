@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+#operaciones{
+    text-align: center;
+    color: blueviolet;
+}
+
+#resultado{
+    text-align: center;
+}
+#suma{
+    background-color: aqua;
+    font-weight: bolder;
+}
+#resta{
+    background-color: green;
+    font-weight: bolder;
+}
+#multiplicacion{
+    background-color: gray;
+    font-weight: bolder;
+}
+#division{
+    background-color: purple;
+    font-weight: bolder;
+}
